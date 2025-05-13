@@ -1,11 +1,9 @@
-# Web App
 streamlit==1.34.0
 
-# Core NLP libraries
+# ChatterBot supports spaCy <2.2 only
 chatterbot==1.0.5
-spacy==3.7.2
-thinc==8.2.1
+spacy==2.1.9
 numpy==1.23.5
+en-core-web-sm==2.1.0
 
-# spaCy English model (as package URL)
-en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
+# Others (no need to pin exact versions unless needed)
