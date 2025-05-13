@@ -1,15 +1,15 @@
-streamlit==1.45.0
-spacy==3.8.5
-spacy-legacy==3.0.12
-spacy-loggers==1.0.5
-SQLAlchemy==2.0.40
-chatterbot==1.0.5
-chatterbot-corpus==1.2.0
-pandas==2.2.3
-scikit-learn==1.6.1
-numpy==2.2.5
-matplotlib==3.10.1
-seaborn==0.13.2
+streamlit
+spacy
+spacy-legacy
+spacy-loggers
+SQLAlchemy
+chatterbot
+chatterbot-corpus
+pandas
+scikit-learn
+numpy
+matplotlib
+seaborn
 
 # Si estás usando el modelo pequeño de spaCy (necesario para NER)
 en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
