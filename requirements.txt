@@ -1,9 +1,6 @@
 streamlit==1.34.0
-
-# ChatterBot supports spaCy <2.2 only
 chatterbot==1.0.5
-spacy==2.1.9
-numpy==1.23.5
-en-core-web-sm==2.1.0
-
-# Others (no need to pin exact versions unless needed)
+spacy==3.7.2
+scikit-learn==1.3.0
+numpy==1.24.4
+pandas==1.5.3
