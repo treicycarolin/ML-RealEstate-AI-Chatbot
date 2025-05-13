@@ -1,0 +1,13 @@
+location,price,property_type,bedrooms,bathrooms,amenities
+Punta Cana,250000,condo,2,2,"pool, gym"
+Bavaro,150000,apartment,1,1,balcony
+Santo Domingo,300000,house,3,2,"parking, pet friendly"
+Casa de Campo,600000,villa,4,3,"private garden, pool"
+Jarabacoa,200000,condo,2,1,parking
+Santiago,180000,apartment,2,2,gym
+Cap Cana,500000,villa,3,3,"sea view, pool"
+La Romana,220000,house,3,2,garden
+Bávaro,270000,condo,2,2,rooftop terrace
+Punta Cana,320000,villa,4,3,"gated community, pool"
+Santo Domingo,210000,apartment,1,1,
+Jarabacoa,140000,house,2,1,pet friendly
