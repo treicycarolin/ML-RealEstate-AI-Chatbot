@@ -1,5 +1,7 @@
 streamlit==1.34.0
 spacy==3.7.2
+chatterbot==1.0.5
+chatterbot-corpus==1.2.0
 pandas==2.2.2
 scikit-learn==1.4.2
 numpy==1.26.4
