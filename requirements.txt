@@ -1,11 +1,14 @@
-streamlit==1.34.0
-spacy==3.7.2
+streamlit==1.45.0
+spacy==3.8.5
+spacy-legacy==3.0.12
+spacy-loggers==1.0.5
+SQLAlchemy==2.0.40
 chatterbot==1.0.5
 chatterbot-corpus==1.2.0
-pandas==2.2.2
-scikit-learn==1.4.2
-numpy==1.26.4
-matplotlib==3.8.4
+pandas==2.2.3
+scikit-learn==1.6.1
+numpy==2.2.5
+matplotlib==3.10.1
 seaborn==0.13.2
 
 # Si estás usando el modelo pequeño de spaCy (necesario para NER)
